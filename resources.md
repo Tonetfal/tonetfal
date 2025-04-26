@@ -6,6 +6,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#quality-of-life">Quality of Life</a></summary>
+<br>
 
 | Name                                                                                                             | Description                                    |
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
@@ -27,6 +28,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#cpp">C++</a></summary>
+<br>
 
 | Name                                                                                                                                      | Description                                                                                                                         |
 |:------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
@@ -49,6 +51,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#blueprints">Blueprints</a></summary>
+<br>
 
 | Name                                                                                                                                            | Description                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|
@@ -61,6 +64,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#networking">Networking</a></summary>
+<br>
 
 | Name                                                                                                                                                           | Description                                                           |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
@@ -97,6 +101,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#gameplay-ability-system">Gameplay Ability System</a></summary>
+<br>
 
 | Name                                                                                       | Description                                                     |
 |:-------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
@@ -109,6 +114,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#user-interface">User Interface</a></summary>
+<br>
 
 | Name                                                                                                                              | Description                                                                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,6 +136,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#editor-tools">Editor Tools</a></summary>
+<br>
 
 | Name                                                                                                                                                               | Description                                    |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
@@ -145,6 +152,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#graphics">Graphics</a></summary>
+<br>
 
 | Name                                                                                                                           | Description                                                                  |
 |:-------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
@@ -162,6 +170,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#optimization">Optimization</a></summary>
+<br>
 
 | Name                                                                                                                                | Description                                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
@@ -186,6 +195,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#audio">Audio</a></summary>
+<br>
 
 | Name                                                                                                                                                                                                 | Description                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|
@@ -201,6 +211,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#localization">Localization</a></summary>
+<br>
 
 | Name                                                                                                                            | Description                                                                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
@@ -213,6 +224,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#miscellaneous">Miscellaneous</a></summary>
+<br>
 
 | Name                                                                                                                 | Description                                                          |
 |:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
@@ -234,6 +246,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 
 <details>
 <summary><a href="#blogs">Blogs</a></summary>
+<br>
 
 | Name                                                                                                | Description              |
 |:----------------------------------------------------------------------------------------------------|:-------------------------|
