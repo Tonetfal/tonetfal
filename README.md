@@ -4,6 +4,8 @@ Hi, I'm an Unreal Engine Generalist.
 
 🐸 [tonetfal.com](https://tonetfal.github.io)
 
+📝 [Resources](resources.md)
+
 ## Unreal Plugins
 
 | Name                                                                                                        | Description                                                    |
