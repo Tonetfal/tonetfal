@@ -267,5 +267,6 @@ It's a set of links to articles, documentation, and plugins I find useful.
 | [Tonetfal](https://tonetfal.github.io)                                                              | Programming/Optimization |
 | [Vitor Cantao](https://www.vitorcantao.com)                                                         | Programming              |
 | [Sharundaar](https://sharundaar.com)                                                                | UI                       |
+| [Joyrok](https://joyrok.com/Articles)                                                               | Tech Art                 |
 
 </details>
