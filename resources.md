@@ -5,8 +5,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 <hr>
 
 <details>
-<summary><a href="#quality-of-life">Quality of Life</a></summary>
-<br>
+<summary>Quality of Life</summary>
 
 | Name                                                                                                             | Description                                    |
 |:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
@@ -27,31 +26,27 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#cpp">C++</a></summary>
-<br>
+<summary>C++</summary>
 
-| Name                                                                                                                                      | Description                                                                                                                         |
-|:------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|
-| [C++ Speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)                                                                  | Quick introduction to Unreal Engine C++ for people familiar with the language                                                       |
-| [Common Issues & Tips](https://tackytortoise.github.io/2022/06/24/common-slacker-issues.html)                                             | Common C++ issues and how to avoid them                                                                                             |
-| [Live Coding](https://dev.northstarhana.com/Unreal-Engine/Stop-Live-Coding)                                                               | Be aware of live coding and hot reloading                                                                                           |
-| [UE5Coro](https://github.com/landelare/ue5coro)                                                                                           | Unreal Engine coroutines                                                                                                            |
-| [UE5FSM](https://github.com/Tonetfal/UE5FSM)                                                                                              | Finite State Machine mimicking behavior of [Unreal Engine 3's FSM](https://docs.unrealengine.com/udk/Three/UnrealScriptStates.html) |
-| [UPROPERTY/UFUNCTION/Etc](https://unreal-garden.com/docs/)                                                                                | Description of all the specifiers used for classes, structs, properties, functions etc.                                             |
-| [Delegates](https://unreal-garden.com/tutorials/delegates-advanced/)                                                                      | Learn how to create event-driven code in unreal                                                                                     |
-| [Developer Settings](https://unreal-garden.com/tutorials/developer-settings/)                                                             | Expose settings to Project Settings                                                                                                 |
-| [Component Pointer Fixer](https://github.com/Duroxxigar/ComponentPointerFixer)                                                            | Helper utility to fix broken actor component pointers                                                                               |
-| [Improved logging](https://github.com/itsBaffled/dbgLOG)                                                                                  | Move on from UE_LOG() to something better                                                                                           |
-| [Garbage Collection](https://mikelis.net/memory-management-garbage-collection-in-unreal-engine/)                                          | Learn how the engine handles memory                                                                                                 |
-| [Rider Templates](https://github.com/Tonetfal/Rider-Templates-UE5)                                                                        | Custom templates for basic Unreal classes to have a faster start when creating new classes                                          |
-| [Save Game](https://www.tomlooman.com/unreal-engine-cpp-save-system/)                                                                     | Save your game progress                                                                                                             |
-| [Serialization Best Practices](https://dev.epicgames.com/community/learning/talks-and-demos/4ORW/unreal-engine-serialization-best-practi) | Best practices to serialize your game data                                                                                          |
+| Name                                                                                                                                      | Description                                                                                |
+|:------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
+| [C++ Speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)                                                                  | Quick introduction to Unreal Engine C++ for people familiar with the language              |
+| [Common Issues & Tips](https://tackytortoise.github.io/2022/06/24/common-slacker-issues.html)                                             | Common C++ issues and how to avoid them                                                    |
+| [Live Coding](https://dev.northstarhana.com/Unreal-Engine/Stop-Live-Coding)                                                               | Be aware of live coding and hot reloading                                                  |
+| [UE5Coro](https://github.com/landelare/ue5coro)                                                                                           | Unreal Engine coroutines                                                                   |
+| [UPROPERTY/UFUNCTION/Etc](https://unreal-garden.com/docs/)                                                                                | Description of all the specifiers used for classes, structs, properties, functions etc.    |
+| [Delegates](https://unreal-garden.com/tutorials/delegates-advanced/)                                                                      | Learn how to create event-driven code in unreal                                            |
+| [Developer Settings](https://unreal-garden.com/tutorials/developer-settings/)                                                             | Expose settings to Project Settings                                                        |
+| [Improved logging](https://github.com/itsBaffled/dbgLOG)                                                                                  | Move on from UE_LOG() to something better                                                  |
+| [Garbage Collection](https://mikelis.net/memory-management-garbage-collection-in-unreal-engine/)                                          | Learn how the engine handles memory                                                        |
+| [Rider Templates](https://github.com/Tonetfal/Rider-Templates-UE5)                                                                        | Custom templates for basic Unreal classes to have a faster start when creating new classes |
+| [Save Game](https://www.tomlooman.com/unreal-engine-cpp-save-system/)                                                                     | Save your game progress                                                                    |
+| [Serialization Best Practices](https://dev.epicgames.com/community/learning/talks-and-demos/4ORW/unreal-engine-serialization-best-practi) | Best practices to serialize your game data                                                 |
 
 </details>
 
 <details>
-<summary><a href="#blueprints">Blueprints</a></summary>
-<br>
+<summary>Blueprints</summary>
 
 | Name                                                                                                                                            | Description                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|
@@ -63,12 +58,10 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#networking">Networking</a></summary>
-<br>
+<summary>Networking</summary>
 
 | Name                                                                                                                                                           | Description                                                           |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|
-| [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)                                                        | Theory for client-server game architecture                            |
 | [How to Understand Network Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w)                                                                           | Replication overview                                                  |
 | [Multiplayer network compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/)                                                  | Starting point for multiplayer programming                            |
 | [Multiplayer tips and tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/)                                                                      | Best practices for multiplayer                                        |
@@ -100,8 +93,22 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#gameplay-ability-system">Gameplay Ability System</a></summary>
-<br>
+<summary>AI</summary>
+
+| Name                                                                                                                          | Description                                                                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|
+| [Morgan Walkup's Utility AI introduction](https://medium.com/@morganwalkupdev/ai-made-easy-with-utility-ai-fef94cd36161)      | Simple introduction to utility AI                                                                              |
+| [Morgan Walkup's Utility AI simple implementation](https://medium.com/@morganwalkupdev/easy-ai-in-unreal-engine-c0f4ba1998cc) | Simple implementation of utility AI in blueprints                                                              |
+| [Tom Looman's Utility AI 1](https://www.tomlooman.com/unreal-engine-utility-ai-part1/)                                        | Simple introduction to utility AI with cons/pros compared to Behavior Trees                                    |
+| [Tom Looman's Utility AI 2](https://www.tomlooman.com/utility-ai-ue4-2/)                                                      | Details about how utility AI can be made using UE and the ActionComponent                                      |
+| [GDC Utility AI introduction](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through)                   | Detailed explanation of how utility AI operates on the data resulting into some actions                        |
+| [GDC Utility AI details](https://www.gdcvault.com/play/1021848/Building-a-Better-Centaur-AI)                                  | Explanation on how utility AI was implemented for [Guild Wars 2: Heart of Thorns](https://www.guildwars2.com/) |
+| [SUSS](https://github.com/sinbad/SUSS)                                                                                        | Steve's Utility AI SubSystem: extensive UE implementation of Utility UI                                        |
+
+</details>
+
+<details>
+<summary>Gameplay Ability System</summary>
 
 | Name                                                                                       | Description                                                     |
 |:-------------------------------------------------------------------------------------------|:----------------------------------------------------------------|
@@ -113,8 +120,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#user-interface">User Interface</a></summary>
-<br>
+<summary>User Interface</summary>
 
 | Name                                                                                                                              | Description                                                                                                                                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -135,8 +141,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#editor-tools">Editor Tools</a></summary>
-<br>
+<summary>Editor Tools</summary>
 
 | Name                                                                                                                                                               | Description                                    |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
@@ -151,8 +156,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#graphics">Graphics</a></summary>
-<br>
+<summary>Graphics</summary>
 
 | Name                                                                                                                           | Description                                                                  |
 |:-------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
@@ -169,8 +173,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#optimization">Optimization</a></summary>
-<br>
+<summary>Optimization</summary>
 
 | Name                                                                                                                                | Description                                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
@@ -194,8 +197,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#audio">Audio</a></summary>
-<br>
+<summary>Audio</summary>
 
 | Name                                                                                                                                                                                                 | Description                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|
@@ -210,8 +212,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#localization">Localization</a></summary>
-<br>
+<summary>Localization</summary>
 
 | Name                                                                                                                            | Description                                                                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
@@ -223,8 +224,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#miscellaneous">Miscellaneous</a></summary>
-<br>
+<summary>Miscellaneous</summary>
 
 | Name                                                                                                                 | Description                                                          |
 |:---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|
@@ -245,8 +245,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 </details>
 
 <details>
-<summary><a href="#blogs">Blogs</a></summary>
-<br>
+<summary>Blogs</summary>
 
 | Name                                                                                                | Description              |
 |:----------------------------------------------------------------------------------------------------|:-------------------------|
