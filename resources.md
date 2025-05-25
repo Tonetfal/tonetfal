@@ -205,6 +205,7 @@ It's a set of links to articles, documentation, and plugins I find useful.
 | [Various Practical Optimizations](https://tonetfal.github.io/posts/2024/12/Unreal%20Engine%205%20For%20Static%20Game%20Worlds/)     | Various techniques applied to optimize [MESS](https://store.steampowered.com/app/3330050/MESS/) |
 | [User Interface Optimization](https://unreal-garden.com/tutorials/ui-performance/)                                                  | How to improve user interface timings                                                           |
 | [Dependency Analyser](https://github.com/alessianigretti/DependencyAnalyser)                                                        | Measure and analyse memory bottlenecks                                                          |
+| [Performance Maxing](https://blog.daftsoftware.com/unreal-perf-maxing/)                                                             | Maximize performance by disabling all the unnecessary features                                  |
 
 </details>
 
