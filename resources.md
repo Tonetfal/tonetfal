@@ -255,8 +255,9 @@ It's a set of links to articles, documentation, and plugins I find useful.
 | [Asset Manager](https://www.tomlooman.com/unreal-engine-asset-manager-async-loading/)                                | Manage game memory by asynchronously loading assets on demand        |
 | [Turn In Place](https://github.com/Vaei/TurnInPlace)                                                                 | Turn in place logic for different game genres                        |
 | [Kawaii Physics](https://github.com/pafuhana1213/KawaiiPhysics)                                                      | Custom physics nodes to create cuter animations                      |
-| [Game Input Database](https://gameinputdatabase.com)                                                                 |                                                                      |
-| [Game UI Database](https://www.gameuidatabase.com)                                                                   |                                                                      |
+| [Game Input Database](https://gameinputdatabase.com)                                                                 | Database of different inputs setups for existing games.              |
+| [Game UI Database](https://www.gameuidatabase.com)                                                                   | Database of different UI for existing games.                         |
+| [Tick](https://voithos.io/articles/fancier-ticking-in-unreal/)                                                       | Tick explained.                                                      |
 
 </details>
 
